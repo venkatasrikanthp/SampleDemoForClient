@@ -1,7 +1,7 @@
 //Print the number of each character occurenes in a given string
 import java.util.Map;
 import java.util.HashMap;
-class OccurenceOfCharInString {
+class OccurenceOfCharInName {
     static void characterCount(String name)
     {
         HashMap<Character, Integer> charCountMap
